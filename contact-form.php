@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <?php
-$title = "crud" ;
+$title = "Contact Form" ;
 include('partials/header.php');
  ?>
 <!-- HEADER -->

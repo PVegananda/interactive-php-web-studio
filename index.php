@@ -21,7 +21,7 @@ include('partials/header.php');
 
 
 <div class="main margin" style="margin-left: 500px; margin-top:100px;">
-<form action="name.php" method="post">
+<form action="welcome.php" method="post">
   <div class="mb-3">
     <label class="form-label">First Name</label>
     <input class="form-control" name="firstname" value="">

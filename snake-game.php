@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <?php 
-$title = "Snake Games" ;
+$title = "Snake Game" ;
 include('partials/header.php');
  ?>
 <!-- HEADER -->

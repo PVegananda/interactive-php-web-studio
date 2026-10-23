@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <?php 
-$title = "Quiz" ;
+$title = "Knowledge Quiz" ;
 include('partials/header.php');
  ?>
 <!-- HEADER -->
@@ -85,7 +85,7 @@ include('partials/header.php');
     }
     error_reporting(E_ALL ^ E_NOTICE);
 ?>
-    <form action="quiz.php" method="post">
+    <form action="knowledge-quiz.php" method="post">
         <h1 class="fs-3">Jawablah Pertanyaan Di Bawah Ini</h1>
         <div class="mb-3">
         <label class="form-label"> <strong>Berapa Hasil 100-50x270:1</strong> </label>

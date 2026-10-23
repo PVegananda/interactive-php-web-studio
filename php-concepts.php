@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <?php 
-$title = "Pengertian" ;
+$title = "PHP Concepts" ;
 include('partials/header.php');
  ?>
 <!-- HEADER -->

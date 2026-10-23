@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <?php 
-$title = "Guess Your Age" ;
+$title = "Age Calculator" ;
 include('partials/header.php'); ?>
 <!-- HEADER -->
 
@@ -37,7 +37,7 @@ include('partials/header.php'); ?>
 
 ?>
 <div class="text-dark" style="margin-left:500px; margin-top:200px; margin-right: 200px;">
-<form action="gya.php" method="post">
+<form action="age-calculator.php" method="post">
   <div class="mb-3">
     <label class="form-label">Masukkan Tanggal Lahir:</label>
     <select name="day" class="form-control form-control-sm mb-3 text-dark" required>
