@@ -40,8 +40,8 @@ The project is designed as a concise showcase of practical web development: serv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PVegananda/php-web-studio.git
-cd php-web-studio
+git clone https://github.com/PVegananda/interactive-php-web-studio.git
+cd interactive-php-web-studio
 ```
 
 ### 2. Start a local PHP server
